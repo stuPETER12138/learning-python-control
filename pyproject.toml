@@ -7,5 +7,6 @@ requires-python = ">=3.11"
 dependencies = [
     "control>=0.10.2",
     "ipykernel>=7.0.1",
+    "rich>=14.2.0",
     "slycot>=0.6.0",
 ]
